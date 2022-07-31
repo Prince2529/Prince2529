@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wachira
+- 👋 Hi, I’m Wachira;
 - I'm mobile application developer ,main use is flutter;
 
 
